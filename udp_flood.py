@@ -1,4 +1,3 @@
-# Author: A. Dalerzoda
 import sys  # Importing the command-line argument module
 from scapy.all import *  # Importing scapy, a packet manipulation library
 
